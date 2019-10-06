@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1570321160485.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "4177502612",
+    "id" : "ABE4E8B9",
+    "lastKnownWriteTime" : 1569322969,
+    "last_content_update" : 1569322969,
+    "path" : "~/EDX/R Data Science/Probability/sec3_RandomVar/Question_3.R",
+    "project_path" : null,
+    "properties" : {
+        "cursorPosition" : "23,15",
+        "scrollLine" : "6"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 7,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

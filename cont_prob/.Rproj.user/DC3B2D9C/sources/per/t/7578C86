@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1568766393729.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3695905226",
+    "id" : "7578C86",
+    "lastKnownWriteTime" : 1568769759,
+    "last_content_update" : 1568769759716,
+    "path" : "~/EDX/R Data Science/Probability/cont_prob/ACT_Scores.R",
+    "project_path" : "ACT_Scores.R",
+    "properties" : {
+        "cursorPosition" : "0,2",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

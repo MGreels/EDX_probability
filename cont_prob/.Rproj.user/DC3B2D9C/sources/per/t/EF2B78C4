@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1568685555558.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1200970051",
+    "id" : "EF2B78C4",
+    "lastKnownWriteTime" : 1568686389,
+    "last_content_update" : 1568686389633,
+    "path" : "~/EDX/R Data Science/Probability/cont_prob/Female_heights.R",
+    "project_path" : "Female_heights.R",
+    "properties" : {
+        "cursorPosition" : "44,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

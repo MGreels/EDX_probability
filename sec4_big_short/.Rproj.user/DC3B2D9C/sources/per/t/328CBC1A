@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1570325967246.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "482644982",
+    "id" : "328CBC1A",
+    "lastKnownWriteTime" : 1570326337,
+    "last_content_update" : 1570326337434,
+    "path" : "~/EDX/R Data Science/Probability/sec4_big_short/Ques_5.R",
+    "project_path" : "Ques_5.R",
+    "properties" : {
+        "cursorPosition" : "21,19",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 8,
+    "source_on_save" : true,
+    "source_window" : "",
+    "type" : "r_source"
+}
